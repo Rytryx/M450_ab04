@@ -4,6 +4,7 @@
 - **Modul:** 450
 - **Schule:** CsBe Bern
 - **Dozent:** Patrick Michel
+- **CEO:** Peter Muster
 
 
 
